@@ -1,0 +1,47 @@
+---
+sidebar: sidebar 
+permalink: task-manage-active-directory.html 
+keywords: active directory, dns, domain, dns servers, smb server 
+summary: Se sono stati modificati i server DNS o il dominio Active Directory, è necessario modificare il server SMB in Cloud Volumes Service in modo che possa continuare a fornire storage ai client. 
+---
+= Gestire la configurazione di Active Directory
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Se sono stati modificati i server DNS o il dominio Active Directory, è necessario modificare il server SMB in Cloud Volumes Service in modo che possa continuare a fornire storage ai client.
+
+.Fasi
+. Aprire l'ambiente di lavoro.
+. Fare clic su image:screenshot_gallery_options.gif["Un'icona con tre punti"] Nella parte superiore della pagina e fare clic su *Gestisci Active Directory*.
++
+Se non è configurata alcuna Active Directory, è possibile aggiungerne una ora. Se ne è stata configurata una, è possibile modificare o eliminare le impostazioni utilizzando image:screenshot_gallery_options.gif["Un'icona con tre punti"] pulsante.
+
+. Specificare le impostazioni per il server SMB:
++
+[cols="25,75"]
+|===
+| Campo | Descrizione 
+
+
+| Indirizzo IP primario DNS | Gli indirizzi IP dei server DNS che forniscono la risoluzione dei nomi per il server SMB. Utilizzare una virgola per separare gli indirizzi IP quando si fa riferimento a più server, ad esempio 172.31.25.223, 172.31.2.74. 
+
+
+| Dominio Active Directory da unire | L'FQDN del dominio Active Directory (ad) a cui si desidera che il server SMB si unisca. 
+
+
+| Nome NetBIOS del server SMB | Un nome NetBIOS per il server SMB che verrà creato. 
+
+
+| Credenziali autorizzate per l'accesso al dominio | Il nome e la password di un account Windows con privilegi sufficienti per aggiungere computer all'unità organizzativa (OU) specificata nel dominio ad. 
+
+
+| Unità organizzativa | L'unità organizzativa all'interno del dominio ad da associare al server SMB. L'impostazione predefinita è CN=computer per le connessioni al proprio server Windows Active Directory. 
+|===
+. Fare clic su *Save* (Salva) per salvare le impostazioni.
+

@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: task-remove-working-env.html 
+keywords: remove working environment, delete working environment, remove cloud volumes service, remove, delete 
+summary: 'Puoi rimuovere un abbonamento a Cloud Volumes Service per Google Cloud e tutti i volumi esistenti da BlueXP. I volumi non vengono cancellati, ma vengono semplicemente rimossi dall"interfaccia BlueXP.' 
+---
+= Rimuovere Cloud Volumes Service da BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi rimuovere un abbonamento a Cloud Volumes Service per Google Cloud e tutti i volumi esistenti da BlueXP. I volumi non vengono cancellati, ma vengono semplicemente rimossi dall'interfaccia BlueXP.
+
+
+TIP: L'eliminazione dell'abbonamento a Cloud Volumes Service per Google Cloud da BlueXP non è supportata. Puoi farlo solo attraverso Google Cloud Console.
+
+.Fasi
+. Aprire l'ambiente di lavoro.
+. Fare clic su image:screenshot_gallery_options.gif["Un'icona con tre punti."] Nella parte superiore della pagina e fare clic su *Rimuovi Cloud Volumes Service*.
+. Nella finestra di dialogo di conferma, fare clic su *Rimuovi*.
+

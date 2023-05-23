@@ -1,0 +1,73 @@
+---
+settings:
+  name: Cloud Volumes Service for Google Cloud
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  rss_page: whats-new.html
+  langs: it-it,us-en,ja-jp,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr
+sidebar:
+  entries:
+  - title: Documenti di Cloud Volumes Service per Google Cloud
+    url: "/index.html"
+  - title: Note di rilascio
+    url: "/whats-new.html"
+  - title: Inizia subito
+    entries:
+    - title: Scopri di più su Cloud Volumes Service per Google Cloud
+      url: "/concept-cvs-gcp.html"
+    - title: Avvio rapido
+      url: "/task-quick-start.html"
+    - title: Configurare Google Cloud
+      url: "/task-set-up-google-cloud.html"
+    - title: Creare un ambiente di lavoro
+      url: "/task-create-working-env.html"
+  - title: USA Cloud Volumes Service per Google Cloud
+    entries:
+    - title: Creare e montare volumi
+      url: "/task-create-volumes.html"
+    - title: Gestire i volumi esistenti
+      url: "/task-manage-volumes.html"
+    - title: Gestire le snapshot dei volumi cloud
+      url: "/task-manage-snapshots.html"
+    - title: Gestire la configurazione di Active Directory
+      url: "/task-manage-active-directory.html"
+    - title: Rimuovere Cloud Volumes Service
+      url: "/task-remove-working-env.html"
+  - title: Conoscenza e supporto
+    entries:
+    - title: Registrati per ricevere assistenza
+      url: "/task-support-registration.html"
+    - title: Richiedi assistenza
+      url: "/task-get-help.html"
+  - title: Note legali
+    url: "/legal-notices.html"
+homepage:
+  tiles:
+  - title: Inizia subito
+    links:
+    - title: Scopri di più su Cloud Volumes Service per Google Cloud
+      url: concept-cvs-gcp.html
+    - title: Avvio rapido
+      url: task-quick-start.html
+  - title: USA Cloud Volumes Service
+    links:
+    - title: Creare volumi
+      url: task-create-volumes.html
+    - title: Gestire le snapshot dei volumi cloud
+      url: task-manage-snapshots.html
+  - title: Blog e community
+    links:
+    - title: Community NetApp
+      url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+    - title: Blog BlueXP
+      url: https://cloud.netapp.com/blog
+    - title: Webinar sul cloud
+      url: https://cloud.netapp.com/events
+product-family:
+  name: BlueXP
+  repo: cloud-manager-family
+  sidebar_label: Tutta la documentazione BlueXP

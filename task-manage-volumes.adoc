@@ -1,0 +1,83 @@
+---
+sidebar: sidebar 
+permalink: task-manage-volumes.html 
+keywords: manage volumes, mount command, delete volume, edit volume, edit snapshot policy 
+summary: Puoi gestire i volumi esistenti in base alle tue esigenze di storage. È possibile visualizzare, modificare, ripristinare ed eliminare i volumi. 
+---
+= Gestire i volumi esistenti
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi gestire i volumi esistenti in base alle tue esigenze di storage. È possibile visualizzare, modificare, ripristinare ed eliminare i volumi.
+
+.Fasi
+. Aprire l'ambiente di lavoro.
+. Passare il mouse sul volume.
++
+image:screenshot_cvs_gcp_volume_hover_menu.png["Una schermata del menu del volume che consente di eseguire le attività del volume"]
+
+. Gestisci i tuoi volumi:
++
+[cols="30,70"]
+|===
+| Attività | Azione 
+
+
+| Consente di visualizzare informazioni su un volume | Fare clic su *Info*. 
+
+
+| Modifica di un volume (inclusa la policy di snapshot)  a| 
+.. Fare clic su *Edit* (Modifica).
+.. Modificare le proprietà del volume, quindi fare clic su *Update* (Aggiorna).
+
+
+
+
+| Ottieni il comando di montaggio NFS o SMB  a| 
+.. Fare clic su *montare il volume*.
+.. Fare clic su *Copy* (Copia) per copiare i comandi.
+
+
+
+
+| Crea una copia Snapshot on-demand  a| 
+.. Fare clic su *Crea una copia Snapshot*.
+.. Modificare il nome, se necessario, quindi fare clic su *Crea*.
+
+
+
+
+| Sostituire il volume con il contenuto di una copia Snapshot  a| 
+.. Fare clic su *Ripristina volume in snapshot*.
+.. Selezionare una copia Snapshot e fare clic su *Restore* (Ripristina).
+
+
+
+
+| Eliminare una copia Snapshot  a| 
+.. Fare clic su *Elimina una copia Snapshot*.
+.. Selezionare l'istantanea e fare clic su *Delete* (Elimina).
+.. Fare nuovamente clic su *Delete* quando viene richiesto di confermare.
+
+
+
+
+| Eliminare un volume  a| 
+.. Smontare il volume da tutti i client:
++
+*** Sui client Linux, utilizzare `umount` comando.
+*** Sui client Windows, fare clic su *Disconnetti unità di rete*.
+
+
+.. Selezionare un volume, quindi fare clic su *Delete* (Elimina).
+.. Fare nuovamente clic su *Delete* per confermare.
+
+
+|===
+
