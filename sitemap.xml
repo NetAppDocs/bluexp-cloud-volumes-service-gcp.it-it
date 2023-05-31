@@ -13,105 +13,105 @@
   
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/concept-cvs-gcp.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/concept-cvs-gcp.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/legal-notices.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/legal-notices.html</loc>
+      
+      <lastmod>2023-05-31T15:06:59+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp//search.html</loc>
+      
+      <lastmod>2023-05-31T15:07:15+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-create-volumes.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp//search.html</loc>
-      
-      <lastmod>2023-05-24T08:35:41+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-create-volumes.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-create-working-env.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-create-working-env.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-get-help.html</loc>
+      
+      <lastmod>2023-05-31T15:06:59+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-manage-active-directory.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-get-help.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-manage-snapshots.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-manage-active-directory.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-manage-volumes.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-manage-snapshots.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-quick-start.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-manage-volumes.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-remove-working-env.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-quick-start.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-set-up-google-cloud.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-remove-working-env.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/task-support-registration.html</loc>
       
-      <lastmod>2023-05-23T21:35:28+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-set-up-google-cloud.html</loc>
-      
-      <lastmod>2023-05-23T21:35:28+00:00</lastmod>
+      <lastmod>2023-05-31T15:06:59+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/task-support-registration.html</loc>
-      
-      <lastmod>2023-05-23T21:35:28+00:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/whats-new.html</loc>
+      <loc>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/whats-new.html</loc>
       
       <lastmod>2023-05-23T21:35:28+00:00</lastmod>
       

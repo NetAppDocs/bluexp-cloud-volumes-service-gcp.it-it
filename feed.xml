@@ -2,21 +2,21 @@
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cloud-manager-cloud-volumes-service-gcp | NetApp Documentation</title>
-    <atom:link href="https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp</link>
+    <title>bluexp-cloud-volumes-service-gcp | NetApp Documentation</title>
+    <atom:link href="https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp</link>
     <description>The latest updates from NetApp Documentation</description>
     <language>it-it</language>
     <ttl>60</ttl>
-    <pubDate>Wed, 24 May 2023 08:38:12 +0000</pubDate>
-    <lastBuildDate>Wed, 24 May 2023 08:38:12 +0000</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 15:10:07 +0000</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 15:10:07 +0000</lastBuildDate>
     
     
     
     <item>
       <title>Novità (23 May 2023)</title>
       <pubDate>Tue, 23 May 2023 21:35:28 +0000</pubDate>
-      <link>https://docs.netapp.com/it-it/cloud-manager-cloud-volumes-service-gcp/whats-new.html?time=1684877728</link>
+      <link>https://docs.netapp.com/it-it/bluexp-cloud-volumes-service-gcp/whats-new.html?time=1684877728</link>
       <guid isPermaLink="false">Tue, 23 May 2023 21:35:28 +0000</guid>
       <description><![CDATA[ Scopri le novità di Cloud Volumes Service per Google Cloud in BlueXP. ]]></description>
     </item>
