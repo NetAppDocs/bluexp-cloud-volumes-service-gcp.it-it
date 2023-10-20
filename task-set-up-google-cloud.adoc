@@ -18,15 +18,24 @@ BlueXP deve accedere all'API di Cloud Volumes Service e disporre delle autorizza
 
 
 
-== Attivare l'API Cloud Volumes Service
+== Passaggio 1: Attivare l'API Cloud Volumes Service
 
-In Google Cloud Shell, eseguire il seguente comando per attivare l'API Cloud Volumes Service:
+Abilita l'API Cloud Volumes Service in modo che BlueXP possa gestire i volumi di iscrizione e cloud.
 
+.Fasi
+. Da Google Cloud, avviare una sessione di Cloud Shell.
++
+https://cloud.google.com/shell/docs/launching-cloud-shell["Documentazione di Google Cloud: Avviare Cloud Shell"^]
+
+. Eseguire il seguente comando per attivare l'API Cloud Volumes Service:
++
 `gcloud --project=<my-cvs-project> services enable cloudvolumesgcp-api.netapp.com`
 
 
 
-== Impostare un account di servizio
+
+
+== Passaggio 2: Configurare un account di servizio
 
 Completare le seguenti attività in modo che BlueXP possa accedere al progetto Google Cloud:
 

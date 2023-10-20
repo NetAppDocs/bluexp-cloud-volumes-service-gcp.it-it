@@ -16,9 +16,9 @@ summary: Creare un ambiente di lavoro Cloud Volumes Service per Google Cloud in 
 [role="lead"]
 Creare un ambiente di lavoro Cloud Volumes Service per Google Cloud in BlueXP per creare e gestire volumi e snapshot.
 
-Indipendentemente dal fatto che siano già stati creati volumi dalla console cloud di Google o che si sia appena iscritti a Cloud Volumes Service per Google Cloud e che non siano ancora presenti volumi, il primo passo è creare un ambiente di lavoro per i volumi in base al tuo abbonamento GCP.
+Indipendentemente dal fatto che tu abbia già creato volumi da Google Cloud Console, o se ti sei appena registrato a Cloud Volumes Service per Google Cloud e non hai ancora volumi, il primo passo è creare un ambiente di lavoro per i volumi sulla base dell'iscrizione a Google Cloud.
 
-Se esistono già volumi cloud per questo abbonamento, i volumi verranno visualizzati nel nuovo ambiente di lavoro. Se non hai ancora aggiunto volumi cloud per l'abbonamento GCP, lo fai dopo aver creato il nuovo ambiente di lavoro.
+Se esistono già volumi cloud per questo abbonamento, i volumi verranno visualizzati nel nuovo ambiente di lavoro. Se non hai ancora aggiunto Cloud Volumes per l'abbonamento a Google Cloud, puoi farlo dopo aver creato il nuovo ambiente di lavoro.
 
 
 TIP: Se si dispone di sottoscrizioni e volumi in più progetti Google Cloud, è necessario eseguire questa attività per ogni progetto.
@@ -41,7 +41,7 @@ Quando si aggiunge un abbonamento a ciascun progetto, è necessario disporre del
 .. Selezionare il nome del progetto Google Cloud.
 .. Fare clic su *continua*.
 +
-image:screenshot_add_cvs_gcp_credentials.png["Schermata dell'aggiunta di credenziali per un abbonamento a Cloud Volumes Service per GCP."]
+image:screenshot_add_cvs_gcp_credentials.png["Uno screenshot che mostra l'aggiunta delle credenziali per un abbonamento a Cloud Volumes Service per Google Cloud."]
 
 
 

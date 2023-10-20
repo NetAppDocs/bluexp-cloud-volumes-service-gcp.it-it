@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-quick-start.html 
 keywords: quick start, set up cloud volumes service 
-summary: Inizia subito seguendo questi passaggi o segui i link per i dettagli completi. 
+summary: Inizia subito con Cloud Volumes Service per Google Cloud configurando Google Cloud e creando un ambiente di lavoro. 
 ---
-= Guida rapida di Cloud Volumes Service per Google Cloud
+= Per iniziare il flusso di lavoro
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,25 +14,12 @@ summary: Inizia subito seguendo questi passaggi o segui i link per i dettagli co
 
 
 [role="lead"]
-Inizia subito seguendo questi passaggi o segui i link per i dettagli completi.
+Inizia subito con Cloud Volumes Service per Google Cloud configurando Google Cloud e creando un ambiente di lavoro.
 
-.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Uno"] Attivare l'API Cloud Volumes Service
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Uno"] link:task-set-up-google-cloud.html["Configurare Google Cloud"]
 [role="quick-margin-para"]
-Da Google, abilita l'API Cloud Volumes Service per GCP in modo che BlueXP possa gestire i volumi di abbonamento e cloud.
+Da Google, abilitare l'API Cloud Volumes Service e creare un account di servizio.
 
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Due"] link:task-create-working-env.html["Creare un ambiente di lavoro"]
 [role="quick-margin-para"]
-link:task-set-up-google-cloud.html["Scopri come attivare l'API"].
-
-.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["Due"] Creare un account di servizio GCP e scaricare le credenziali
-[role="quick-margin-para"]
-Da Google, creare un account di servizio e un ruolo in modo che BlueXP possa accedere al proprio account Cloud Volumes Service per Google Cloud.
-
-[role="quick-margin-para"]
-link:task-set-up-google-cloud.html#set-up-a-service-account["Scopri come configurare un account di servizio"].
-
-.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["Tre"] Creare un ambiente di lavoro Cloud Volumes Service per GCP
-[role="quick-margin-para"]
-In BlueXP, fare clic su *Aggiungi ambiente di lavoro* > *Google Cloud* > *Cloud Volumes Service*, quindi fornire i dettagli sull'account del servizio e sul progetto Google Cloud.
-
-[role="quick-margin-para"]
-link:task-create-working-env.html["Scopri come creare un ambiente di lavoro"].
+Da BlueXP, fai clic su *Aggiungi ambiente di lavoro* > *Google Cloud* > *Cloud Volumes Service*, quindi fornisci i dettagli sull'account del servizio e sul progetto Google Cloud.
