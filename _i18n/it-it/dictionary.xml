@@ -457,7 +457,7 @@
   <block id="6fa4b509618baa240e76ba2859660da3" category="paragraph">BlueXP può rilevare abbonamenti e volumi Cloud Volumes Service per Google Cloud esistenti. Vedere<block ref="8cef80fbd20b45fcd51e638492e90799" category="inline-link-rx"></block> se non hai ancora configurato l'abbonamento.</block>
   <block id="7db3ae7aa1d24eb06d62c0cb0ed678ae" category="list-text">Per utilizzare SMB in Google Cloud, è necessario aver configurato DNS e Active Directory.</block>
   <block id="089ded181f5256b29409c1eafafd51b9" category="paragraph">Dopo aver completato i passaggi nelle istruzioni di montaggio, il volume cloud è stato montato correttamente sull'istanza di Google Cloud.</block>
-  <block id="3e78595d1d3ae86258a7b0046782656b" category="summary">Inizia subito con Cloud Volumes Service per Google Cloud configurando Google Cloud e creando un ambiente di lavoro.</block>
+  <block id="3e78595d1d3ae86258a7b0046782656b" category="paragraph">Inizia subito con Cloud Volumes Service per Google Cloud configurando Google Cloud e creando un ambiente di lavoro.</block>
   <block id="65ce4dce26160be29539699c6623e379" category="doc">Per iniziare il flusso di lavoro</block>
   <block id="28eda352be26509e42dcdad8ea712b08" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> <block ref="1a521c21359bc598920e036b48976b8b" category="inline-link-macro-rx"></block></block>
   <block id="3cbe6a41e088877beb0fdc0f033c9db7" category="paragraph">Da Google, abilitare l'API Cloud Volumes Service e creare un account di servizio.</block>
@@ -471,4 +471,5 @@
   <block id="7d4858380df2c179560798250655ff74" category="list-text">Eseguire il seguente comando per attivare l'API Cloud Volumes Service:</block>
   <block id="9bbd421955a8eed4c188692bb2a2a4ea" category="section-title">Passaggio 2: Configurare un account di servizio</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Novità</block>
+  <block id="6b0fb7c0d2cfa8f64fcb6049f7b1fcc7" category="summary">Inizia subito con Cloud Volumes ONTAP per Google Cloud configurando Google Cloud e creando un ambiente di lavoro.</block>
 </blocks>
